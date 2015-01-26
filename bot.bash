@@ -1,3 +1,9 @@
+#Alex Trautman
+#Summer 2014
+# loops through machines and does various things in terminal
+#user will be prompted for password many times
+
+
 address0 = cmc102 #first part of address
 address1 = .mathcs.carleton.edu #second part of address - after variable
 
